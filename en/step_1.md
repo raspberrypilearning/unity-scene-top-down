@@ -1,4 +1,4 @@
-To see your map in a top-down view, right-click where it says 'Persp' in the top right of the Scene view and choose **Top**. 
+To view your scene in a top-down view, right-click where it says 'Persp' in the top right of the Scene view and choose **Top**. 
 
 ![The Scene view in a top-down view zoomed out to show the whole world.](images/top-down-maze.png)
 
