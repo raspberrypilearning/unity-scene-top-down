@@ -1,10 +1,10 @@
-To view your scene in a top-down view, right-click where it says 'Persp' in the top right of the Scene view and choose **Top**.
+Om je scène in een top-down weergave te bekijken klik rechtsboven waar 'Persp' staat in de rechterbovenhoek van de Scène-weergave en kies **Top**.
 
 ![The Scene view in a top-down view zoomed out to show the whole world.](images/top-down-maze.png)
 
-You can use the arrow keys to move left and right and zoom. Hold the right mouse button down and drag to move and rotate.
+Je kunt de pijltjestoetsen gebruiken om naar links en rechts te gaan en in te zoomen. Houd de rechtermuisknop ingedrukt en sleep om te bewegen en te draaien.
 
-To return to the normal view, right-click on **Top** and choose **Free**.
+Om terug te keren naar de normale weergave, klik met de rechtermuisknop op **Top** en kies **Free**.
 
-![The Scene view returned to free view to show the world at a closer, lower angle.](images/maze-world.png)
+![De scèneweergave teruggezet naar de Free weergave om de wereld van dichterbij te laten zien.](images/maze-world.png)
 
