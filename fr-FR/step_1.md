@@ -1,10 +1,10 @@
-To view your scene in a top-down view, right-click where it says 'Persp' in the top right of the Scene view and choose **Top**.
+Pour voir ta scène en vue de dessus, fais un clic droit à l'endroit où il est écrit « Persp » en haut à droite de la vue Scene et choisis **Top**.
 
-![The Scene view in a top-down view zoomed out to show the whole world.](images/top-down-maze.png)
+![La vue Scene est une vue de dessus avec un zoom arrière pour montrer le monde en entier.](images/top-down-maze.png)
 
-You can use the arrow keys to move left and right and zoom. Hold the right mouse button down and drag to move and rotate.
+Tu peux utiliser les touches fléchées pour te déplacer à gauche et à droite et zoomer. Maintiens le bouton droit de la souris enfoncé et fais glisser pour déplacer et faire pivoter.
 
-To return to the normal view, right-click on **Top** and choose **Free**.
+Pour revenir à la vue normale, fais un clic droit sur **Top** et choisis **Free**.
 
-![The Scene view returned to free view to show the world at a closer, lower angle.](images/maze-world.png)
+![La vue Scene revient à la vue free pour montrer le monde sous un angle plus proche et plus bas.](images/maze-world.png)
 
